@@ -13,3 +13,11 @@
 
 ## Personal Note
 Silhouette score closer to **1** is better. It is a numerical metric, not case-sensitive, and applies to any dataset.
+
+
+## Requirements
+```bash
+pip install -r requirements.txt
+```
+
+
